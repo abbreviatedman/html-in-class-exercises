@@ -51,7 +51,7 @@
 1. Read these instructions at least once before you begin
 2. Look for the <nav></nav> section in the html
    a. All of your code will go between the opening and closing nav tags
-3. Look in your assets folder and see there is a file there called ac-logo.png
+3. Look in your assets folder and see there is a file there called ac-logo.jpg
 4. Back in your HTML, under the opening <nav> tag, add the logo to the navbar
    a. add a **class attribute** with a value of "nav-logo" to the image tag
    b. Add an alt tag

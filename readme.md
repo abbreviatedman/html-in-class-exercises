@@ -59,7 +59,7 @@
    a. HOME
    b. ABOUT
    c. CONTACT
-6. To see your code, right-click your html file and click on 'open with live server'. Make sure to refresh the page after making changes.
+6. To see your code, right-click your html file and click on 'open with live server'.
 7. Move on to the next section, Our Certification Process
 
 ### Our certification process (ordered list)
@@ -97,7 +97,7 @@
 1. Read these instructions at least once before you begin
 2. Check out the design below
 3. What elements do you see in the design?
-4. Look at the HTML for the <secion> with a class of "awards-section"
+4. Look at the HTML for the <section> with a class of "awards-section"
 5. Where in the HTML will the h1 and the paragraph go for the top?
    1. Add a class of "section-header" to the h1
    2. Add a class of "awards-section-text" to the p tag

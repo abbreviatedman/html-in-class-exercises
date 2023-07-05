@@ -8,7 +8,7 @@
 4. Find the <section> tag that has a class attribute with a value of "headers-section"
 5. Add 6 headers, from h1 to h6, inside the <section> tag. The text that is rendered to the screen should reflect the tag that is wrapped around it. So the h1 should let the user know "this is an h1", h2 renders "this is an h2", and so on
 6. To see your code, right-click your html file and click on 'open with live server'.
-7. STOP and head back to class
+7. STOP and wait in your breakout room for us to start the next section.
 
 ### Headers section PART TWO (anchor tags)
 
@@ -19,7 +19,7 @@
 5. Google "attribute to open link in new browser tab HTML"
 6. Add an attribute to your h1 that will open the link in a new browser tab
 7. See what happens when you click the link in the browser!
-8. STOP and head back to class
+8. STOP and wait in your breakout room for us to start the next section.
 
 ### Footer (buttons)
 
@@ -32,7 +32,7 @@
    c. Request
    d. Donate
 5. Check out your code in the browser!
-6. STOP and head back to class
+6. STOP and wait in your breakout room for us to start the next section.
 
 ### Gallery Section (images)
 
@@ -44,7 +44,7 @@
 6. Add meaningful alt tags to each image
 7. This is what your page should look like:
    ![gallery page design](./assets/gallery-design.png)
-8. STOP and head back to class
+8. STOP and wait in your breakout room for us to start the next section.
 
 ### NAVBAR (unordered list, image)
 
@@ -72,7 +72,7 @@
    c. Make changes based on feedback
    d. Present the software to the world!
 4. Check out your code in the browser
-5. STOP and head back to class
+5. STOP and wait in your breakout room for us to start the next section.
 
 ### Divs
 
@@ -90,7 +90,7 @@
 12. For the fourth div, change the h1 so it renders a 4, and change the paragraph to say: "Our team will build the app of your dreams. We will take our time and pay close attention to every detail."
 13. This is what your page should look like:
     ![four divs with steps and content](./assets/div-section-design.png)
-14. STOP and head back to class
+14. STOP and wait in your breakout room for us to start the next section.
 
 ### Awards section (practice)
 
@@ -110,14 +110,14 @@
 1. Read these instructions at least once before you begin
 2. Find the section with a class of "hero-section"
 3. Create a div with a class of "hero-wrapper"
-4. Inside of the "hero-wrapper div, create a div with a class of "text-wrapper"
-5. Inside of the text-wrapper div, add an h1 tag with a class of "hero-header". Add the text from the design.
+4. Inside of the "hero-wrapper" div, create a div with a class of "text-wrapper"
+5. Inside of the "text-wrapper" div, add an h1 tag with a class of "hero-header". Add the text from the design.
 6. Add a p tag that is a SIBLING to the h1 with the text from the design.
-7. Add a button tag that is a sibling to the p tag abd the h1 with the text from the design.
+7. Add a button tag that is a sibling to the p tag and the h1 with the text from the design.
 8. Link the button to AnnieCannons.com
 9. Create a div with a class of "form-wrapper" that is a CHILD of the "hero-wrapper" div and a sibling of the "text-wrapper" div
 10. Add an h1 tag with the text from the design that is a child of the "form-wrapper" div
-11. Create your from. Follow the designs.
+11. Create your form. Follow the designs.
     a) each input tag should have the following attributes: type, id, name, required, placeholder
     b) the select tag should have the following attributes: id, name, required
     i. the **first** option tag should have the following attributes: value, disabled, selected

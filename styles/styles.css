@@ -25,21 +25,18 @@ nav ul {
   margin-right: 2em;
 }
 
+nav img {
+  width: 50px;
+  margin-left: 2em;
+  border-radius: 100%;
+}
+
 nav ul li {
   margin-right: 4em;
   list-style: none;
   text-transform: uppercase;
   color: whitesmoke;
   font-weight: bolder;
-}
-nav img {
-  width: 50px;
-  margin-left: 2em;
-  border-radius: 100%;
-}
-a {
-  color: inherit;
-  text-decoration: none;
 }
 
 .section {
@@ -56,55 +53,9 @@ a {
   background-image: linear-gradient(to bottom right, aliceblue, #01ffff);
 }
 
-.about-section {
-  background-image: linear-gradient(to bottom right, aliceblue, lightpink);
-}
-
-.hero-wrapper {
-  width: 60%;
-  margin: 0 auto;
-  display: flex;
-  padding: 5em;
-  justify-content: space-between;
-}
-
-.hero-header {
-  padding-top: 2em;
-  margin-top: 0px;
-}
-
-.text-wrapper {
-  width: 50%;
-}
-
-.form-wrapper {
-  padding: 2em;
-  background-color: white;
-  border-radius: 10px;
-}
-
-button {
-  border: none;
-  padding: 1em 2em;
-  border-radius: 5px;
-  background-color: white;
-  text-transform: uppercase;
-}
-
 .about-img-wrapper img {
   width: 75%;
   border-radius: 5px;
-}
-
-.about-img-wrapper {
-  width: 50%;
-}
-
-.about-wrapper {
-  display: flex;
-  padding: 8em 4em;
-  width: 80%;
-  margin: 0 auto;
 }
 
 .gallery-section img {
@@ -247,4 +198,55 @@ button {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.about-section {
+  background-image: linear-gradient(to bottom right, aliceblue, lightpink);
+}
+
+.hero-wrapper {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  padding: 5em;
+  justify-content: space-between;
+}
+
+.hero-header {
+  padding-top: 2em;
+  margin-top: 0px;
+}
+
+.text-wrapper {
+  width: 50%;
+}
+
+.form-wrapper {
+  padding: 2em;
+  background-color: white;
+  border-radius: 10px;
+}
+
+button {
+  border: none;
+  padding: 1em 2em;
+  border-radius: 5px;
+  background-color: white;
+  text-transform: uppercase;
+}
+
+.about-img-wrapper {
+  width: 50%;
+}
+
+.about-wrapper {
+  display: flex;
+  padding: 8em 4em;
+  width: 80%;
+  margin: 0 auto;
 }
